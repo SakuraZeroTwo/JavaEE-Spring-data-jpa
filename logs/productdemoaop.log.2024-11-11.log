@@ -1,0 +1,93 @@
+2024-11-11 16:23:09.857 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-11 16:23:09.857 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-11 16:23:10.638 [main] INFO  c.e.x.j.p.controller.AdminProductControllerTest - Starting AdminProductControllerTest using Java 22.0.2 with PID 19348 (started by 李可羿 in D:\Code\Java\SpringAOP\7.SpringAOP\7.SpringAOP\productdemoaop)
+2024-11-11 16:23:10.640 [main] DEBUG c.e.x.j.p.controller.AdminProductControllerTest - Running with Spring Boot v3.3.4, Spring v6.1.13
+2024-11-11 16:23:10.642 [main] INFO  c.e.x.j.p.controller.AdminProductControllerTest - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 16:23:10.654 [main] INFO  c.e.x.j.p.controller.AdminProductControllerTest - Starting AdminProductControllerTest using Java 22.0.2 with PID 16000 (started by 李可羿 in D:\Code\Java\SpringAOP\7.SpringAOP\7.SpringAOP\productdemoaop)
+2024-11-11 16:23:10.656 [main] DEBUG c.e.x.j.p.controller.AdminProductControllerTest - Running with Spring Boot v3.3.4, Spring v6.1.13
+2024-11-11 16:23:10.659 [main] INFO  c.e.x.j.p.controller.AdminProductControllerTest - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 16:23:18.783 [main] INFO  o.s.b.test.mock.web.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2024-11-11 16:23:18.783 [main] INFO  o.s.b.test.mock.web.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2024-11-11 16:23:18.783 [main] INFO  o.s.test.web.servlet.TestDispatcherServlet - Initializing Servlet ''
+2024-11-11 16:23:18.784 [main] INFO  o.s.test.web.servlet.TestDispatcherServlet - Initializing Servlet ''
+2024-11-11 16:23:18.829 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 14 endpoints beneath base path '/actuator'
+2024-11-11 16:23:18.830 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 14 endpoints beneath base path '/actuator'
+2024-11-11 16:23:18.900 [main] INFO  o.s.test.web.servlet.TestDispatcherServlet - Completed initialization in 113 ms
+2024-11-11 16:23:18.904 [main] INFO  o.s.test.web.servlet.TestDispatcherServlet - Completed initialization in 117 ms
+2024-11-11 16:23:19.159 [main] INFO  c.e.x.j.p.controller.AdminProductControllerTest - Started AdminProductControllerTest in 9.792 seconds (process running for 13.113)
+2024-11-11 16:23:19.169 [main] INFO  c.e.x.j.p.controller.AdminProductControllerTest - Started AdminProductControllerTest in 9.801 seconds (process running for 13.13)
+2024-11-11 16:23:19.480 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2024-11-11 16:23:19.480 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2024-11-11 16:23:23.610 [main] DEBUG c.e.x.j.p.controller.AdminProductController - getProductById: id = 1580 
+2024-11-11 16:23:23.612 [main] DEBUG c.e.x.javaee.productdemoaop.service.ProductService - findProductById: id = 1580, all = false
+2024-11-11 16:23:23.853 [main] DEBUG c.e.x.j.p.controller.AdminProductController - getProductById: id = 1580 
+2024-11-11 16:23:23.856 [main] DEBUG c.e.x.javaee.productdemoaop.service.ProductService - findProductById: id = 1580, all = false
+2024-11-11 16:23:23.984 [main] INFO  cn.edu.xmu.javaee.core.aop.ControllerAspect - doAround: BusinessException， errno = RESOURCE_ID_NOTEXIST
+2024-11-11 16:23:24.219 [main] INFO  cn.edu.xmu.javaee.core.aop.ControllerAspect - doAround: BusinessException， errno = RESOURCE_ID_NOTEXIST
+2024-11-11 16:23:24.244 [main] DEBUG c.e.x.j.p.controller.AdminProductController - getProductById: id = 1580 
+2024-11-11 16:23:24.244 [main] DEBUG c.e.x.javaee.productdemoaop.service.ProductService - findProductById: id = 1580, all = false
+2024-11-11 16:23:24.302 [main] INFO  cn.edu.xmu.javaee.core.aop.ControllerAspect - doAround: BusinessException， errno = RESOURCE_ID_NOTEXIST
+2024-11-11 16:23:24.764 [main] DEBUG c.e.x.j.p.controller.AdminProductController - getProductById: id = 1580 
+2024-11-11 16:23:24.764 [main] DEBUG c.e.x.javaee.productdemoaop.service.ProductService - findProductById: id = 1580, all = false
+2024-11-11 16:23:24.824 [main] INFO  cn.edu.xmu.javaee.core.aop.ControllerAspect - doAround: BusinessException， errno = RESOURCE_ID_NOTEXIST
+2024-11-11 16:23:24.857 [main] INFO  cn.edu.xmu.javaee.core.aop.ControllerAspect - doAround: BusinessException， errno = RESOURCE_ID_NOTEXIST
+2024-11-11 16:23:25.102 [main] INFO  cn.edu.xmu.javaee.core.aop.ControllerAspect - doAround: BusinessException， errno = RESOURCE_ID_NOTEXIST
+2024-11-11 16:23:25.243 [main] DEBUG c.e.x.j.p.controller.AdminProductController - getProductById: id = 5465 
+2024-11-11 16:23:25.244 [main] DEBUG c.e.x.javaee.productdemoaop.service.ProductService - findProductById: id = 5465, all = false
+2024-11-11 16:23:25.479 [main] DEBUG c.e.x.j.p.controller.AdminProductController - getProductById: id = 5466 
+2024-11-11 16:23:25.479 [main] DEBUG c.e.x.javaee.productdemoaop.service.ProductService - findProductById: id = 5466, all = false
+2024-11-11 16:23:26.162 [main] DEBUG c.e.x.j.p.controller.AdminProductController - getProductById: id = 1550 
+2024-11-11 16:23:26.162 [main] DEBUG c.e.x.javaee.productdemoaop.service.ProductService - findProductById: id = 1550, all = false
+2024-11-11 16:23:26.299 [main] DEBUG c.e.x.j.p.controller.AdminProductController - getProductById: id = 1550 
+2024-11-11 16:23:26.299 [main] DEBUG c.e.x.javaee.productdemoaop.service.ProductService - findProductById: id = 1550, all = false
+2024-11-11 16:23:26.738 [main] DEBUG c.e.x.j.p.controller.AdminProductController - getProductById: id = 1550122 
+2024-11-11 16:23:26.739 [main] DEBUG c.e.x.javaee.productdemoaop.service.ProductService - findProductById: id = 1550122, all = false
+2024-11-11 16:23:26.842 [main] INFO  cn.edu.xmu.javaee.core.aop.ControllerAspect - doAround: BusinessException， errno = RESOURCE_ID_NOTEXIST
+2024-11-11 16:23:27.252 [main] DEBUG c.e.x.j.p.controller.AdminProductController - getProductById: id = 1550122 
+2024-11-11 16:23:27.253 [main] DEBUG c.e.x.javaee.productdemoaop.service.ProductService - findProductById: id = 1550122, all = false
+2024-11-11 16:23:27.311 [main] INFO  cn.edu.xmu.javaee.core.aop.ControllerAspect - doAround: BusinessException， errno = RESOURCE_ID_NOTEXIST
+2024-11-11 16:23:28.431 [main] DEBUG c.e.x.j.p.controller.ProductController - getProductById: id = 1550 
+2024-11-11 16:23:28.432 [main] DEBUG c.e.x.javaee.productdemoaop.service.ProductService - findProductById: id = 1550, all = true
+2024-11-11 16:23:28.822 [main] DEBUG c.e.x.j.p.controller.ProductController - getProductById: id = 1550122 
+2024-11-11 16:23:28.823 [main] DEBUG c.e.x.javaee.productdemoaop.service.ProductService - findProductById: id = 1550122, all = true
+2024-11-11 16:23:28.894 [main] INFO  cn.edu.xmu.javaee.core.aop.ControllerAspect - doAround: BusinessException， errno = RESOURCE_ID_NOTEXIST
+2024-11-11 16:23:29.030 [main] DEBUG c.e.x.j.p.controller.ProductController - getProductById: id = 1550 
+2024-11-11 16:23:29.030 [main] DEBUG c.e.x.javaee.productdemoaop.service.ProductService - findProductById: id = 1550, all = true
+2024-11-11 16:23:29.097 [main] DEBUG c.e.x.j.p.controller.ProductController - getProductById: id = 1574 
+2024-11-11 16:23:29.098 [main] DEBUG c.e.x.javaee.productdemoaop.service.ProductService - findProductById_manual: id = 1574
+2024-11-11 16:23:29.642 [main] DEBUG c.e.x.j.p.controller.ProductController - getProductById: id = 1550122 
+2024-11-11 16:23:29.642 [main] DEBUG c.e.x.javaee.productdemoaop.service.ProductService - findProductById_manual: id = 1550122
+2024-11-11 16:23:29.710 [main] INFO  cn.edu.xmu.javaee.core.aop.ControllerAspect - doAround: BusinessException， errno = RESOURCE_ID_NOTEXIST
+2024-11-11 16:23:29.839 [main] DEBUG c.e.x.j.p.controller.ProductController - getProductById: id = 1550122 
+2024-11-11 16:23:29.840 [main] DEBUG c.e.x.javaee.productdemoaop.service.ProductService - findProductById: id = 1550122, all = true
+2024-11-11 16:23:29.869 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2024-11-11 16:23:29.874 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2024-11-11 16:23:29.896 [main] INFO  cn.edu.xmu.javaee.core.aop.ControllerAspect - doAround: BusinessException， errno = RESOURCE_ID_NOTEXIST
+2024-11-11 16:23:30.123 [main] DEBUG c.e.x.j.p.controller.ProductController - getProductById: id = 1574 
+2024-11-11 16:23:30.124 [main] DEBUG c.e.x.javaee.productdemoaop.service.ProductService - findProductById_manual: id = 1574
+2024-11-11 16:23:30.529 [main] DEBUG c.e.x.j.p.controller.ProductController - getProductById: id = 1550122 
+2024-11-11 16:23:30.530 [main] DEBUG c.e.x.javaee.productdemoaop.service.ProductService - findProductById_manual: id = 1550122
+2024-11-11 16:23:31.094 [main] INFO  cn.edu.xmu.javaee.core.aop.ControllerAspect - doAround: BusinessException， errno = RESOURCE_ID_NOTEXIST
+2024-11-11 16:23:31.248 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2024-11-11 16:23:31.255 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2024-11-11 16:23:51.390 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-11 16:23:51.509 [main] INFO  c.e.x.j.productdemoaop.ProductDemoAOPApplication - Starting ProductDemoAOPApplication using Java 22.0.2 with PID 4596 (D:\Code\Java\SpringAOP\7.SpringAOP\7.SpringAOP\productdemoaop\target\classes started by 李可羿 in D:\Code\Java\SpringAOP\7.SpringAOP\7.SpringAOP\productdemoaop)
+2024-11-11 16:23:51.510 [main] DEBUG c.e.x.j.productdemoaop.ProductDemoAOPApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+2024-11-11 16:23:51.510 [main] INFO  c.e.x.j.productdemoaop.ProductDemoAOPApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 16:23:53.086 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-11-11 16:23:53.090 [main] INFO  org.apache.catalina.core.AprLifecycleListener - An older version [1.3.0] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.5]
+2024-11-11 16:23:53.090 [main] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.3.0] using APR version [1.7.4].
+2024-11-11 16:23:53.095 [main] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+2024-11-11 16:23:53.104 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-11 16:23:53.108 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-11 16:23:53.108 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-11-11 16:23:53.160 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-11 16:23:53.161 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1598 ms
+2024-11-11 16:23:54.546 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 14 endpoints beneath base path '/actuator'
+2024-11-11 16:23:54.598 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-11 16:23:54.622 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 16:23:54.632 [main] INFO  c.e.x.j.productdemoaop.ProductDemoAOPApplication - Started ProductDemoAOPApplication in 3.573 seconds (process running for 4.102)
+2024-11-11 16:24:52.771 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 16:24:52.771 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-11 16:24:52.773 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2024-11-11 16:24:52.841 [http-nio-8080-exec-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
